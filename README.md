@@ -2,7 +2,7 @@
 
 A simple Streamlit application demonstrating how to build a chatbot using LLM like Deepseek or GPT.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://chatbot-bw4vgsoyviyz5era9exlfn.streamlit.app/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://llm-legal-chatbot-dxvbzbnu6kfi3d5ktp8mpo.streamlit.app/)
 ![image](https://github.com/user-attachments/assets/5fe85655-0b56-4b0d-ad76-b2b7c1816776)
 
 ## How to Run Locally
